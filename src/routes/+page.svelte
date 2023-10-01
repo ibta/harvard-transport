@@ -96,7 +96,7 @@
 <!--  -->
 <main class="container mx-auto p-6">
     <div class="flex flex-row justify-center items-center pb-8">
-        <h2 class="h2 font-bold">get to dest</h2>
+        <h2 class="h2 font-bold">harvard transport schedule[s]</h2>
     </div>
     <div class="flex flex-row justify-center items-center lg:gap-24 md:gap-24 gap-6">
         <div class="lg:w-1/4 w-full">
